@@ -52,6 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="HandlingNumber.cs" />
+    <Compile Include="IHandlingNumber.cs" />
+    <Compile Include="INumberSystem.cs" />
+    <Compile Include="NumberSystemPresenter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
